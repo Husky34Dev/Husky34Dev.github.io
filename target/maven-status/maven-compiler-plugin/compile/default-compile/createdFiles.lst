@@ -1,0 +1,10 @@
+Modelo/Locomotora.class
+com/mycompany/tren/resources/JakartaEE10Resource.class
+servlets/SvIndex.class
+Modelo/VagonMercancias.class
+Modelo/Tren.class
+servlets/SvTerminarTren.class
+Modelo/Vagon.class
+Modelo/VagonPasajeros.class
+servlets/SvVagones.class
+com/mycompany/tren/JakartaRestConfiguration.class
